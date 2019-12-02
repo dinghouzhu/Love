@@ -1,0 +1,19 @@
+.fotter_top{
+    display: flex;
+    height: 100px;
+}
+.fotter_middle{
+    display: flex;
+    justify-content: center;
+    /* flex: 1; */
+    height: 900px;
+    box-sizing: border-box;
+    /* border: 1px solid #cedcce; */
+}
+.fotter_middle_bottom{
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    /* border: 1px solid #cedcce; */
+}

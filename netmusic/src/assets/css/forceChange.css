@@ -1,0 +1,14 @@
+.am-popover  {
+    left:30px !important;
+    width: 500px;
+    border:1px solid #747575;
+}
+.am-popover-item-content{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    line-height: 60px;
+}
+#m-tabs-2-0,#m-tabs-2-1 {
+    width: 80px !important;
+}

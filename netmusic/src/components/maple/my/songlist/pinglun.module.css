@@ -1,0 +1,14 @@
+.pinglun_P_zhanshiyeshju{
+    font-size:12px;
+     color: #999;
+     display: -webkit-box;
+    -webkit-box-orient: vertical;
+    
+    
+    -webkit-line-clamp: 2;
+    width:243.2px;
+    height:36px;
+    line-height: 20px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

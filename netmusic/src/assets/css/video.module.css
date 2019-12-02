@@ -1,0 +1,117 @@
+.videoCss{
+    width: 700px;
+    height: 400px;
+    margin-left: 25px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.VideoPlay {
+    border-radius:30px;
+    width: 660px;
+    height: 350px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.videoDiv {
+    margin: 30px;
+    text-align: center;
+    border-radius:30px;
+    overflow: hidden;
+}
+.videoCreateAvatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+}
+.videoLi{
+    width: 700px;
+    /* height: 500px; */
+    list-style: none;
+    padding: 10px;
+    overflow: hidden;
+}
+.videocss{
+    width: 650px;
+    height: 330px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 30px;
+    overflow: hidden;
+}
+.videoSpan{
+    display: inline-block;
+}
+.videoTitle{
+    color: black;
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(129, 128, 128);
+}
+.videoImg{
+    width: 50px;
+    height: 50px;
+    float: left;
+    border-radius: 50px;
+    vertical-align: middle;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+.videoSpan1{
+    float: left;
+    font-size: 30px;
+    height: 50px;
+    width: 200px;
+    line-height: 50px;
+    vertical-align: middle;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.videofooter{
+    height: 60px;
+    position: relative;
+}
+.videoImg3{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    padding-right: 10px;
+}
+.videoImg2{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    vertical-align: middle;
+    padding-right: 10px;
+}
+.videoSpan2{
+    position: absolute;
+    line-height: 60px;
+    top:0px;
+    left:400px;
+    line-height: 60px;
+}
+.videoSpan3{
+    position: absolute;
+    line-height: 60px;
+    top:0px;
+    left:530px;
+    line-height: 60px;
+}
+.videocount1,.videocount2{
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+.videoImg4{
+    line-height: 60px;
+    position: absolute;
+    top:20px;
+    left:650px;
+    width: 30px;
+    height: 30px;
+}

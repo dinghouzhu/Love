@@ -1,0 +1,81 @@
+#nav>a{
+    flex: 1;
+}
+#nav>a:first-child div{
+    height: 21px;
+    background: url(icon-my/diantai.png) center center ;
+    background-size:21px 21px;
+    background-repeat:no-repeat;
+}
+#nav>a:nth-child(2) div{
+    height: 21px;
+    background: url(icon-my/night.png) center center ;
+    background-size:21px 21px;
+    background-repeat:no-repeat;
+}
+#nav>a:nth-child(3) div{
+    height: 21px;
+    background: url(icon-my/diantai.png) center center ;
+    background-size:21px 21px;
+    background-repeat:no-repeat;
+}
+#nav>a:last-child div{
+    height: 21px;
+    background: url(icon-my/night.png) center center ;
+    background-size:21px 21px;
+    background-repeat:no-repeat;
+}
+ul{
+    list-style: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.arrow{
+    left: 50px;
+    right: 0;
+}
+.am-accordion-header{
+
+    padding-left:100px !important ;
+}
+.am-accordion .am-accordion-item .am-accordion-header i{
+    transform: rotate(0deg) !important;
+}
+.am-accordion .am-accordion-item .am-accordion-header[aria-expanded~="true"] i{
+    transform: rotate(90deg) !important;
+}
+.am-list-item{
+    padding-left: 50px !important;
+}
+.am-list-item img{
+    width: 70px !important;
+    height: 70px !important;
+}
+.am-list-item .am-list-line .am-list-content{
+    padding: 0 !important;
+    display: flex;
+    flex-direction:row;
+    height: 100% !important;
+    line-height: 87.955px !important;
+}
+
+* { touch-action: pan-y; }
+
+.am-tabs-default-bar-tab-active{
+    padding: 0 !important;
+}
+.am-tabs-default-bar-tab{
+    padding: 0 !important;
+}
+.am-whitespace-md{
+    display: none !important;
+}
+.am-accordion-item{
+    border-bottom: 0 !important;
+}
+.my-myconnten p{
+    text-align: left;
+}
+

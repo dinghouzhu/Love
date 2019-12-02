@@ -1,0 +1,187 @@
+.my-drawer {
+    position: relative;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .my-drawer .am-drawer-sidebar {
+    width: 580px;
+    background-color: #fff;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .my-drawer .am-drawer-sidebar .am-list {
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+  .my-drawer .am-drawer-sidebar .am-list .am-list-body{
+    position: absolute;
+    left: -20px;
+  }
+  .my-drawer .am-drawer .am-drawer-content{
+    padding-top: 0;
+  }
+  
+.usernav{
+  width: 100%;
+  height: 120px;
+  margin-top: 60px;
+}
+ 
+.usernav li{
+  width: 105px;
+  height: 80px;
+  margin: 0 15px;
+  /* padding-top: 20px; */
+  float: left;
+  list-style: none;
+  text-align: center;
+  font-size: 12px;
+}
+.usernav li .icon{
+  color: red;
+  font-size: 60px;
+} 
+.usernav li .text{
+   margin-top: -40px;
+}
+.listOne li{
+  height: 60px;
+  width: 400px;
+  font-size: 24px;
+  line-height: 60px;
+}
+.listOne li .icon{
+  font-size: 38px;
+}
+.listOne li .text{
+  margin-left: 20px;
+  font-size: 28px;
+}
+.listOne li .text_r{
+  float: right;
+}
+
+.listTwo li{
+  height: 60px;
+  width: 400px;
+  font-size: 24px;
+  line-height: 60px;
+}
+.listTwo li .icon{
+  font-size: 38px;
+}
+.listTwo li .text{
+  margin-left: 20px;
+  font-size: 28px;
+}
+.footer{
+  margin-left: -20px;
+}
+.footer .item{
+  float: left;
+  margin: 0 28px;
+  margin-left: 28px;
+}
+.footer .icon{
+  font-size: 34px;
+}
+.login,.nologin{
+  height: 262px;
+  width: 600px;
+  position: relative;
+  
+}
+.top{
+  
+  background-size: 100% 100%;
+  margin-left: -30px;
+ }
+.top .am-list-line .am-list-content{
+  background: rgba(0,0,0,0.5);
+}
+.login{
+  left: 18px;
+  top:30px;
+} 
+.login .info{
+  position: absolute;
+  bottom: 60px;
+  height: 80px;
+  width: 500px;
+  font-size: 28px;
+  color: white;
+  padding-left: 20px;
+}
+.login .info .username{
+  width: 150px;
+  float: left;
+}
+.login .info .info_l{
+  float: left;
+  font-weight:bolder
+}
+.login .info .info_r{
+  width: 80px;
+  height: 40px;
+  text-align: center;
+  float: right;
+  font-size: 24px;
+  border:1px solid #fff;
+  border-radius: 20px;
+  margin-top: 20px;
+  line-height: 40px;
+}
+
+.login .avatar{
+  width: 100px;
+  height: 100px;
+  margin-left: 30px;
+  position: absolute;
+  top:30px;
+  border-radius: 50%;
+  background-size: 100% 100%;
+}
+
+.cover{
+  margin-left: -35px;
+  position: relative;
+}
+.cover .am-list-line .am-list-content{
+  background: rgba(0,0,0,0.8);
+  
+}
+
+.nologin p{
+  font-size: 26px;
+  color:white;
+  margin-left: 30px;
+  text-align: center;
+}
+
+.nologin button{
+   margin-top: 20px;
+   font-size: 28px;
+   border: 1px solid white;
+   border-radius: 30px;
+   width: 200px;
+   height: 50px;
+   margin-left: 200px;
+   color: #fff;
+   background:rgba(0,0,0,0.2);
+}
+
+/* 标签NavBar */
+
+.am-navbar-title ul{
+  padding-left: 45px;
+  width: 400px;
+  color: black;
+}
+.am-navbar-title ul>li{
+  float: left;
+  text-align: center;
+  padding-left: 20px;
+  font-size: 36px;
+}
+

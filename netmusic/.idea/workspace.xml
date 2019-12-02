@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd769ee0-f8df-44bf-8514-efb41268d449" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TrdE1z1zZu8VFCc3mSShmSuKcF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dhz\Desktop\workfile\Netcloudmusic\netmusic\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dhz\Desktop\workfile\Netcloudmusic\netmusic\src" />
+      <recent name="C:\Users\dhz\Desktop\workfile\Netcloudmusic\netmusic\public" />
+      <recent name="C:\Users\dhz\Desktop\workfile\Netcloudmusic\netmusic\src\store" />
+      <recent name="C:\Users\dhz\Desktop\workfile\Netcloudmusic\netmusic\src\assets" />
+      <recent name="C:\Users\dhz\Desktop\workfile\Netcloudmusic\netmusic\src\assets\icons" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd769ee0-f8df-44bf-8514-efb41268d449" name="Default Changelist" comment="" />
+      <created>1574222032097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574222032097</updated>
+      <workItem from="1574222033338" duration="2343000" />
+      <workItem from="1574227121981" duration="1046000" />
+      <workItem from="1574904964044" duration="5234000" />
+      <workItem from="1574910296612" duration="11119000" />
+      <workItem from="1574949250256" duration="4567000" />
+      <workItem from="1574987301618" duration="6732000" />
+      <workItem from="1575006713896" duration="1780000" />
+      <workItem from="1575013065916" duration="6183000" />
+      <workItem from="1575020208698" duration="490000" />
+      <workItem from="1575020763543" duration="1737000" />
+      <workItem from="1575033373936" duration="89000" />
+      <workItem from="1575033573150" duration="281000" />
+      <workItem from="1575075968393" duration="3167000" />
+      <workItem from="1575201805560" duration="3444000" />
+      <workItem from="1575243617273" duration="2164000" />
+      <workItem from="1575247997623" duration="632000" />
+      <workItem from="1575251908207" duration="731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

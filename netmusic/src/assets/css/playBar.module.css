@@ -1,0 +1,100 @@
+.playbarBox {
+    width: 100%;
+    height:100%;
+    overflow:hidden;
+    position: absolute;
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898; 
+    background-blend-mode: multiply,multiply;
+}
+.goback {
+    width: 60px;
+    height: 60px;
+    float: left;
+    padding-top:0 30px;
+}
+.songInfo {
+    float: left;
+}
+.songName {
+    font-size: 32px;
+    color:#fff;
+}
+.singer {
+    font-size: 20px;
+    color:#ccc;
+}
+.jingdutiao {
+    width: 100%;
+    height: 1px;
+    position:relative;
+}
+.jingdu {
+    width:500px;
+    margin:0 auto;
+}
+.ctime {
+    position:absolute;
+    top:-5px;
+    font-size:24px;
+    left:60px;
+    color:#ccc;
+}
+.totaltime {
+    position:absolute;
+    top:-5px;
+    font-size:24px;
+    right:60px;
+    color:#ccc;
+}
+.PlayBox {
+    position:relative;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding-top:50px;
+}
+.PauseOrRunning {
+    width:100px;
+    height:100px;
+    vertical-align:middle;
+    padding:0 50px;
+}
+.next {
+    width:60px;
+    height:60px;
+    vertical-align:middle;
+}
+.funcList {
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    padding-bottom:50px;
+}
+.prev {
+    width:60px;
+    height:60px;
+    vertical-align:middle;
+}
+.picScale {
+    width: 500px;
+    height: 500px;
+    border-radius: 250px;
+    overflow:hidden;
+    animation-play-state:running;
+    -webkit-animation:myRotate 20s linear infinite;
+    animation:myRotate 20s linear infinite;
+}
+@-webkit-keyframes myRotate{
+    0%{ -webkit-transform: rotate(0deg);}
+    25%{ -webkit-transform: rotate(90deg);}
+    50%{ -webkit-transform: rotate(180deg);}
+    75%{ -webkit-transform: rotate(270deg);}
+    100%{ -webkit-transform: rotate(360deg);}
+}
+@keyframes myRotate{
+    0%{ -webkit-transform: rotate(0deg);}
+    25%{ -webkit-transform: rotate(90deg);}
+    50%{ -webkit-transform: rotate(180deg);}
+    75%{ -webkit-transform: rotate(270deg);}
+    100%{ -webkit-transform: rotate(360deg);}
+}

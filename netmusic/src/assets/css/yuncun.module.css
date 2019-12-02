@@ -1,0 +1,117 @@
+.yuncunLi{
+    list-style: none;
+    padding: 10px;
+}
+.yuncunDiv{
+    height: 100px;
+}
+.yuncunImg{
+    display: inline-block;
+    width: 60px;
+    height:60px;
+    line-height: 100px;
+    border-radius: 30px;
+    vertical-align: top;
+}
+.yuncunbig{
+    display: inline-block;
+    width: 400px;
+}
+.yuncunHeader{
+    height: 50px;
+    line-height: 50px;
+    margin-left: 20px;
+    margin-top: 0;
+    vertical-align: top;
+}
+.yuncunNcn{
+    color: rgb(89, 107, 212);
+    font-size: 20px;
+    display: inline-block;
+}
+.yuncunPub{
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 10px;
+}
+.yuncunfans{
+    margin-left: 20px;
+    color: rgb(133, 131, 131);
+}
+.yuncunIcon{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+.yuncunbtn{
+    margin-right: 30px;
+    margin-top: 20px;
+    border: none;
+    width: 100px;
+    height: 40px;
+    float: right;
+    font-size: 20px;
+    border-radius: 20px;
+    line-height: 40px;
+    background-color: rgb(16, 236, 236);
+    color: #fff;
+}
+.yuncunComment{
+    line-height: 40px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.yuncunIcon{
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+    display:flex;
+}
+.yuncuncount{
+    width: 150px;
+    display: inline-block;
+    margin-left: 70px;
+}
+.yuncunIcon1{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+}
+.yuncunIcon2{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+}
+.yuncunIcon3{
+    display: inline-block;
+    width: 35px;
+    height:35px;
+    vertical-align: middle;
+}
+.yuncunIcon4{
+    display: inline-block;
+    width: 30px;
+    height:30px;
+    vertical-align: middle;
+}
+.yuncunSpan{
+    display: inline-block;
+    width: 50px;
+    height:50px;
+    line-height: 50px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.yuncunHr{
+    color: rgb(97, 93, 93);
+    margin-top: 30px;
+}
+.yuncunDivImg{
+    display: flex;
+    width: 100%;
+}
+.yuncunPic{
+    width: 20%;
+}
